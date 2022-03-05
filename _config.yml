@@ -79,9 +79,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : drdeoh
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Rachel Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person."
+  bio              : "I am a slow person."
   location         : "Vancouver, Canada"
   email            : "daeun0513@gmail.com"
   links:
