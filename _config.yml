@@ -20,7 +20,7 @@ title                    : "Trying Data Science"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rachel Oh"
-description              : "An amazing website."
+description              : "A website."
 url                      : "https://drdeoh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ author:
   name             : "Rachel Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a person."
-  location         : "Somewhere"
-  email            :
+  location         : "Vancouver, Canada"
+  email            : "daeun0513@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
