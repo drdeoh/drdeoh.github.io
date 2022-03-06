@@ -67,6 +67,7 @@ lines(xx, yy)
 ```
 
 ![](Untitled_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![unnamed-chunk-5-1](https://user-images.githubusercontent.com/93630073/156906743-c62fa8d7-edd9-4c12-ae5d-9b78b80c124d.png)
 
 We can also filter the data. If we want to extract tail numbers of
 flights which flew on June 2nd with UA with larger than 2000km,
@@ -117,6 +118,7 @@ hist(df4$day, prob = TRUE, xlab = "Day", main = "Flights in June 2013")
 ```
 
 ![](Untitled_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![unnamed-chunk-8-1](https://user-images.githubusercontent.com/93630073/156906753-9f557131-e182-4193-8eac-ffd393f14e46.png)
 
 This shows there were no significant day with highest or lowest number
 of flights.
@@ -128,6 +130,7 @@ hist(df5$day, prob = TRUE, main = "Flights in December 12", xlab = "day")
 ```
 
 ![](Untitled_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![unnamed-chunk-9-1](https://user-images.githubusercontent.com/93630073/156906761-9e1164f0-80c9-46be-9a21-71aba17ab49c.png)
 
 There is significant less flights at the end of the month of 12. This an
 be due to New years eves schedules.
@@ -139,6 +142,7 @@ boxplot(df$distance)
 ```
 
 ![](Untitled_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![unnamed-chunk-10-1](https://user-images.githubusercontent.com/93630073/156906777-a7d28f43-c77e-4720-9ebb-0f3612c0b315.png)
 
 ``` r
 summary(df$distance)
