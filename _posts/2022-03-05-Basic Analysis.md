@@ -45,6 +45,8 @@ hist(df$hour, prob = TRUE, main = "Histogram of Hour\nfrom NYC flights 2013", xl
 
 ![](Untitled_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
+![unnamed-chunk-3-1](https://user-images.githubusercontent.com/93630073/156906649-468eb467-9050-4253-9263-8bf1ab7a4609.png)
+
 To calculate the five summary numbers of the data, use summary function.
 
 ``` r
